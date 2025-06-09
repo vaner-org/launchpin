@@ -1,11 +1,13 @@
 ![Addon icon](img/icon.png)
 
 **Launchpin** is a small Godot plugin that keeps a pinned scene or the last run scene in the run bar, for easy access.
+
+> [!NOTE]
+> Requires Godot 4.4.
+
 ## Installation
 
-Requires Godot 4.4.
-
-1. Download latest release from [here](https://github.com/vaner-org/launchpin/releases/latest) and place it in your project's `addons` folder.
+1. Download latest release from [here](https://github.com/vaner-org/launchpin/releases/latest) or [AssetLib](https://godotengine.org/asset-library/asset/4083) and place it in your project's `addons` folder.
 2. In the toolbar, navigate to Project > Project Settings > Plugins and enable Launchpin. 
 3. If you also have [Launchpad](https://github.com/vaner-org/launchpad) installed, it will prefer this scene.
 ## Usage
